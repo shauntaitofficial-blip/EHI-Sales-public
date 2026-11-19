@@ -1,0 +1,16 @@
+{
+    "build":  12,
+    "version":  "1.0.0",
+    "notes":  "Logging a call or email clears a follow-up that is due by itself (Undo brings it back).",
+    "required":  true,
+    "android":  {
+                    "file":  "EHI-Android-12.apk",
+                    "size":  62327035,
+                    "sha256":  "25e3db7f78b1f0b40d0f29ef0294d28a63cbceea605723b5713d21296ce7a425"
+                },
+    "windows":  {
+                    "file":  "EHI-Windows-12.zip",
+                    "size":  14535747,
+                    "sha256":  "143f3fc7b80301b25b0924f24fa80cbb896b585ab4f3894b028054ddc48fddc4"
+                }
+}
