@@ -1,0 +1,11 @@
+{
+    "build":  41,
+    "version":  "1.0.0",
+    "notes":  "Restore from a backup: see what would come back, then bring back what is missing or everything as it was, with one Undo",
+    "required":  true,
+    "windows":  {
+                    "file":  "EHI-Windows-41.zip",
+                    "size":  15258600,
+                    "sha256":  "d61ccccee511ef8f29959d75485f7541f5c6f809711bcac2b0077e8eda554e83"
+                }
+}
